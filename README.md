@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I just learned that I can have a README for my front page. I will update this page in the future.
+
 <!--
 **velvestad/velvestad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,5 +16,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![test](.images/test.png)
